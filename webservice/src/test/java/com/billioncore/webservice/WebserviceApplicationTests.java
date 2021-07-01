@@ -1,10 +1,10 @@
-package com.billionmining.core;
+package com.billioncore.webservice;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoreApplicationTests {
+class WebserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
