@@ -1,9 +1,15 @@
 # BillionMining
-**BillionMining:Artificial intelligence and data warehouse framework based on flink**
+>BillionMining:Artificial intelligence and data warehouse framework based on flink <br/>
+基于flink的人工智能和数据仓库项目
 
-**基于flink的人工智能和数据仓库项目**
+> It may be an enterprise level real-time recommendation data feature processing system and real-time data warehouse</br>
+可能是一个企业级的实时推荐数据特征处理系统和实时数据仓库
 
-就是flink meetup上有感，想正好融合一下字节的推荐和快手的数据仓库实践，做一个自己的项目练练手
+> 源起：在flink meetup上有感，想正好融合一下字节的推荐和快手的数据仓库实践，一点点做呗 </br>
+> 男人的真正浪漫永远是创世的快乐
+
+
+
 
 第一步：环境部署
 ```bash
@@ -28,6 +34,8 @@ grafana服务（3000端口），已经预先配置很多了监控项
 ![img_1.png](img_1.png)
 
 
+记录：
+2020.07.01 
 
 
 
